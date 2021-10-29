@@ -1,0 +1,9 @@
+# Reading D:/Soft/modelsim/tcl/vsim/pref.tcl 
+# OpenFile {I:/My Drive/FC - Fundamentele Calculatoarelor/Projects/Laborator 4/Lab44_tb.v} 
+# Loading project ASD
+# Compile of ERFDS.v was successful.
+# Load canceled
+# Compile of ERFDS.v was successful.
+dataset reload -f
+# wrong number of args for "dataset info".
+# Usage: dataset info <option> <dataset_name>
